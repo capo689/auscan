@@ -159,7 +159,7 @@ MIT — see [LICENSE](LICENSE)
 
 ## Author
 
-**Adam R. Cagle** · Co-Creative Director, Agency689 · Founder, Agentic689  
+**Adam R. Cagle** · Co-Founder, Managing Director & Lead Copywriter, Agency689 · Founder, Agentic689  
 [adamcagle.com](https://adamcagle.com)
 
 *Built on the Anthropic Claude API · May 2026*
