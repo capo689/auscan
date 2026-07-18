@@ -2,7 +2,7 @@
 
 > Multi-sensor terrain analysis for gold exploration. Built on the Anthropic Claude API. Runs entirely in a browser — no server, no build step, no install.
 
-**v2.1** · Adam R. Cagle · [Agency689](https://adamcagle.com) / Agentic689 · May 2026
+**v2.1** · Adam R. Cagle — AI systems builder, enablement lead, and writer · May 2026
 
 ---
 
@@ -131,13 +131,13 @@ The natural next step is a port to the CLAW architecture (Node.js, Mac Studio, S
 
 - [Technical Whitepaper (Markdown)](docs/WHITEPAPER.md)
 - [Technical Whitepaper (HTML)](docs/auscan-whitepaper.html)
-- [Live at adamcagle.com](https://adamcagle.com/alpha/auscan-whitepaper.html)
+- [Live at adamcagle.com](https://adamcagle.com/wpaper/auscan-whitepaper.html)
 
 ---
 
 ## Part of the Agentic Womb
 
-AuScan is one of five production agents in the Agentic Womb suite:
+AuScan is a research prototype in the Agentic Womb suite, alongside:
 
 | Agent | Function |
 |-------|----------|
