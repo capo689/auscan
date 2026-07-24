@@ -162,4 +162,6 @@ MIT — see [LICENSE](LICENSE)
 **Adam R. Cagle** · Co-Founder, Managing Director & Lead Copywriter, Agency689 · Founder, Agentic689  
 [adamcagle.com](https://adamcagle.com)
 
+Relevant Anthropic coursework completed: **Claude 101** and **Claude Platform 101**. These are certificates of completion, not an Anthropic endorsement of AuScan. [View the full credential record on LinkedIn](https://www.linkedin.com/in/adamcagle/details/certifications/).
+
 *Built on the Anthropic Claude API · May 2026*
